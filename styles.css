@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: #000;
+  }
+  
+  #mainCanvas {
+    position:absolute;
+  }
+  
+  #dummyCanvas {
+    position:absolute;
+    left:-465px;
+    top:-465px;
+  }
